@@ -1,10 +1,13 @@
 ## Reproduction
+Required python libs: scipy, matplotlib, tqdm.
+
 Clone this repository, enter the `'ORAN-Resale-main'` folder and execute:
 ```
 python .\auto_run.py
 ```
-Then you can find all results in the `'logs'` folder.
-Note that the 12-hour simulation may require several hours to complete.
+Then you can find all results we demonstrated in our paper in the `'logs'` folder.
+
+Note that the 12-hour (4320 slots) simulation may require several hours to complete.
 
 ## Citation
 Please cite [our paper](https://arxiv.org/abs/2509.19392) if you found this repository helpful.
