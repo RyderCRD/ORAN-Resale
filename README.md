@@ -7,6 +7,7 @@ Then you can find all results in the `'logs'` folder.
 Note that the 12-hour simulation may require several hours to complete.
 
 ## Citation
+Please cite [our paper](https://arxiv.org/abs/2509.19392) if you found this repository helpful.
 ```
 @article{cao2025user,
   title={A User-to-User Resource Reselling Game in Open RAN with Buffer Rollover},
